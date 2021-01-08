@@ -1,0 +1,517 @@
+E:\LUIS\Meus_Projetos\SIRAD\Backup\Negocios\bin\Debug\Negocios.dll
+E:\LUIS\Meus_Projetos\SIRAD\Backup\Negocios\bin\Debug\Negocios.pdb
+E:\LUIS\Meus_Projetos\SIRAD\Backup\Negocios\obj\Debug\ResolveAssemblyReference.cache
+E:\LUIS\Meus_Projetos\SIRAD\Backup\Negocios\obj\Debug\Negocios.Properties.Resources.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+E:\LUIS\Meus_Projetos\SIRAD\Backup\Negocios\obj\Debug\Negocios.dll
+E:\LUIS\Meus_Projetos\SIRAD\Backup\Negocios\obj\Debug\Negocios.pdb
+C:\SIRAD_V_2011_05\Negocios\bin\Debug\Negocios.dll
+C:\SIRAD_V_2011_05\Negocios\bin\Debug\Negocios.pdb
+C:\SIRAD_V_2011_05\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\SIRAD_V_2011_05\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\SIRAD_V_2011_05\Negocios\obj\Debug\Negocios.dll
+C:\SIRAD_V_2011_05\Negocios\obj\Debug\Negocios.pdb
+C:\SIRAD_V_2011_05\Negocios\obj\Debug\Negocios.Resources.resources
+C:\SIRAD_V_2011_05.1\Negocios\bin\Debug\Negocios.dll
+C:\SIRAD_V_2011_05.1\Negocios\bin\Debug\Negocios.pdb
+C:\SIRAD_V_2011_05.1\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\SIRAD_V_2011_05.1\Negocios\obj\Debug\Negocios.Resources.resources
+C:\SIRAD_V_2011_05.1\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\SIRAD_V_2011_05.1\Negocios\obj\Debug\Negocios.dll
+C:\SIRAD_V_2011_05.1\Negocios\obj\Debug\Negocios.pdb
+J:\SIRAD_V_2011_05.1\Negocios\bin\Debug\Negocios.dll
+J:\SIRAD_V_2011_05.1\Negocios\bin\Debug\Negocios.pdb
+J:\SIRAD_V_2011_05.1\Negocios\obj\Debug\ResolveAssemblyReference.cache
+J:\SIRAD_V_2011_05.1\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SIRAD_V_2011_05.1\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SIRAD_V_2011_05.1\Negocios\obj\Debug\Negocios.dll
+J:\SIRAD_V_2011_05.1\Negocios\obj\Debug\Negocios.pdb
+C:\SIRAD_V_2011_05.1.2\Negocios\bin\Debug\Negocios.dll
+C:\SIRAD_V_2011_05.1.2\Negocios\bin\Debug\Negocios.pdb
+C:\SIRAD_V_2011_05.1.2\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\SIRAD_V_2011_05.1.2\Negocios\obj\Debug\Negocios.Resources.resources
+C:\SIRAD_V_2011_05.1.2\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\SIRAD_V_2011_05.1.2\Negocios\obj\Debug\Negocios.dll
+C:\SIRAD_V_2011_05.1.2\Negocios\obj\Debug\Negocios.pdb
+C:\SIRAD_V_2011_31.05.2011\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\SIRAD_V_2011_31.05.2011\Negocios\obj\Debug\Negocios.Resources.resources
+C:\SIRAD_V_2011_31.05.2011\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\SIRAD_V_2011_31.05.2011\Negocios\obj\Debug\Negocios.dll
+C:\SIRAD_V_2011_31.05.2011\Negocios\bin\Debug\Negocios.dll
+C:\SIRAD_V_2011_31.05.2011\Negocios\bin\Debug\Negocios.pdb
+C:\SIRAD_V_2011_31.05.2011\Negocios\obj\Debug\Negocios.pdb
+D:\SIRAD_V_2011_31.05.2011\Negocios\bin\Debug\Negocios.dll
+D:\SIRAD_V_2011_31.05.2011\Negocios\bin\Debug\Negocios.pdb
+D:\SIRAD_V_2011_31.05.2011\Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\SIRAD_V_2011_31.05.2011\Negocios\obj\Debug\Negocios.Resources.resources
+D:\SIRAD_V_2011_31.05.2011\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SIRAD_V_2011_31.05.2011\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SIRAD_V_2011_31.05.2011\Negocios\obj\Debug\Negocios.dll
+D:\SIRAD_V_2011_31.05.2011\Negocios\obj\Debug\Negocios.pdb
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\bin\Debug\Negocios.dll
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\bin\Debug\Negocios.pdb
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\ResolveAssemblyReference.cache
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.Resources.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.dll
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.pdb
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\bin\Debug\Negocios.dll
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\bin\Debug\Negocios.pdb
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.Resources.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.dll
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.pdb
+K:\SIRAD_V_2011_28.04.2012\Negocios\bin\Debug\Negocios.dll
+K:\SIRAD_V_2011_28.04.2012\Negocios\bin\Debug\Negocios.pdb
+K:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\ResolveAssemblyReference.cache
+K:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.Resources.resources
+K:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.dll
+K:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.pdb
+D:\SIRAD_V_2011_28.04.2012\Negocios\bin\Debug\Negocios.dll
+D:\SIRAD_V_2011_28.04.2012\Negocios\bin\Debug\Negocios.pdb
+D:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.Resources.resources
+D:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.dll
+D:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.pdb
+J:\SIRAD_V_2011_28.04.2012\Negocios\bin\Debug\Negocios.dll
+J:\SIRAD_V_2011_28.04.2012\Negocios\bin\Debug\Negocios.pdb
+J:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\ResolveAssemblyReference.cache
+J:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.dll
+J:\SIRAD_V_2011_28.04.2012\Negocios\obj\Debug\Negocios.pdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\Negocios\bin\Debug\Negocios.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\Negocios\bin\Debug\Negocios.pdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\Negocios.Resources.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\Negocios.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\Negocios.pdb
+K:\SIRAD_V_2011_15.05.2012\Negocios\bin\Debug\Negocios.dll
+K:\SIRAD_V_2011_15.05.2012\Negocios\bin\Debug\Negocios.pdb
+K:\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\ResolveAssemblyReference.cache
+K:\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\Negocios.Resources.resources
+K:\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\Negocios.dll
+K:\SIRAD_V_2011_15.05.2012\Negocios\obj\Debug\Negocios.pdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\Negocios.Resources.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\Negocios.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\Negocios.pdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\Negocios\bin\Debug\Negocios.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\Negocios\bin\Debug\Negocios.pdb
+F:\SIRAD_V_2011_16.05.2012\Negocios\bin\Debug\Negocios.dll
+F:\SIRAD_V_2011_16.05.2012\Negocios\bin\Debug\Negocios.pdb
+F:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\ResolveAssemblyReference.cache
+F:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\Negocios.Resources.resources
+F:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\ResGen.read.1.tlog
+F:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\ResGen.write.1.tlog
+F:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\Negocios.dll
+F:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\Negocios.pdb
+G:\SIRAD_V_2011_16.05.2012\Negocios\bin\Debug\Negocios.dll
+G:\SIRAD_V_2011_16.05.2012\Negocios\bin\Debug\Negocios.pdb
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\ResolveAssemblyReference.cache
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\Negocios.Resources.resources
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\ResGen.read.1.tlog
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\ResGen.write.1.tlog
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\Negocios.dll
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Debug\Negocios.pdb
+D:\SIRAD_V_2011_04.08.2012\Negocios\bin\Debug\Negocios.dll
+D:\SIRAD_V_2011_04.08.2012\Negocios\bin\Debug\Negocios.pdb
+D:\SIRAD_V_2011_04.08.2012\Negocios\obj\Debug\Negocios.Resources.resources
+D:\SIRAD_V_2011_04.08.2012\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+D:\SIRAD_V_2011_04.08.2012\Negocios\obj\Debug\Negocios.dll
+D:\SIRAD_V_2011_04.08.2012\Negocios\obj\Debug\Negocios.pdb
+D:\SIRAD_V_2011_04.08.2012\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+D:\SIRAD_Versao_23_08_2012\Negocios\bin\Debug\Negocios.dll
+D:\SIRAD_Versao_23_08_2012\Negocios\bin\Debug\Negocios.pdb
+D:\SIRAD_Versao_23_08_2012\Negocios\obj\Debug\Negocios.Resources.resources
+D:\SIRAD_Versao_23_08_2012\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+D:\SIRAD_Versao_23_08_2012\Negocios\obj\Debug\Negocios.dll
+D:\SIRAD_Versao_23_08_2012\Negocios\obj\Debug\Negocios.pdb
+D:\SIRAD_Versao_23_08_2012\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\bin\Debug\Negocios.dll
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\bin\Debug\Negocios.pdb
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\obj\Debug\Negocios.Resources.resources
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\obj\Debug\Negocios.dll
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\obj\Debug\Negocios.pdb
+F:\SIRAD_Versao_01_10_2012\Negocios\bin\Debug\Negocios.dll
+F:\SIRAD_Versao_01_10_2012\Negocios\bin\Debug\Negocios.pdb
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.Resources.resources
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.dll
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.pdb
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+D:\MEUS PROJETOS\SIRAD_Versao_01_10_2012\Negocios\bin\Debug\Negocios.dll
+D:\MEUS PROJETOS\SIRAD_Versao_01_10_2012\Negocios\bin\Debug\Negocios.pdb
+D:\MEUS PROJETOS\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.Resources.resources
+D:\MEUS PROJETOS\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+D:\MEUS PROJETOS\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.dll
+D:\MEUS PROJETOS\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.pdb
+D:\SIRAD_Versao_01_10_2012\Negocios\bin\Debug\Negocios.dll
+D:\SIRAD_Versao_01_10_2012\Negocios\bin\Debug\Negocios.pdb
+D:\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.Resources.resources
+D:\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+D:\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.dll
+D:\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.pdb
+F:\Backup_LuisMaia_2013\SIRAD_Versao_01_10_2012\Negocios\bin\Debug\Negocios.dll
+F:\Backup_LuisMaia_2013\SIRAD_Versao_01_10_2012\Negocios\bin\Debug\Negocios.pdb
+F:\Backup_LuisMaia_2013\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\ResolveAssemblyReference.cache
+F:\Backup_LuisMaia_2013\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.Resources.resources
+F:\Backup_LuisMaia_2013\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Backup_LuisMaia_2013\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Backup_LuisMaia_2013\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.dll
+F:\Backup_LuisMaia_2013\SIRAD_Versao_01_10_2012\Negocios\obj\Debug\Negocios.pdb
+C:\SIRAD_Versao_22022013\Negocios\bin\Debug\Negocios.dll
+C:\SIRAD_Versao_22022013\Negocios\bin\Debug\Negocios.pdb
+C:\SIRAD_Versao_22022013\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\SIRAD_Versao_22022013\Negocios\obj\Debug\Negocios.Resources.resources
+C:\SIRAD_Versao_22022013\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\SIRAD_Versao_22022013\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\SIRAD_Versao_22022013\Negocios\obj\Debug\Negocios.dll
+C:\SIRAD_Versao_22022013\Negocios\obj\Debug\Negocios.pdb
+J:\SIRAD_Versao_23022013\Negocios\bin\Debug\Negocios.dll
+J:\SIRAD_Versao_23022013\Negocios\bin\Debug\Negocios.pdb
+J:\SIRAD_Versao_23022013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SIRAD_Versao_23022013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SIRAD_Versao_23022013\Negocios\obj\Debug\Negocios.dll
+J:\SIRAD_Versao_23022013\Negocios\obj\Debug\Negocios.pdb
+L:\SIRAD_Versao_20032013\Negocios\bin\Debug\Negocios.dll
+L:\SIRAD_Versao_20032013\Negocios\bin\Debug\Negocios.pdb
+L:\SIRAD_Versao_20032013\Negocios\obj\Debug\Negocios.Resources.resources
+L:\SIRAD_Versao_20032013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+L:\SIRAD_Versao_20032013\Negocios\obj\Debug\Negocios.dll
+L:\SIRAD_Versao_20032013\Negocios\obj\Debug\Negocios.pdb
+J:\SIRAD_Versao_20032013\Negocios\bin\Debug\Negocios.dll
+J:\SIRAD_Versao_20032013\Negocios\bin\Debug\Negocios.pdb
+J:\SIRAD_Versao_20032013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SIRAD_Versao_20032013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SIRAD_Versao_20032013\Negocios\obj\Debug\Negocios.dll
+J:\SIRAD_Versao_20032013\Negocios\obj\Debug\Negocios.pdb
+J:\SIRAD_Versao_23032013\Negocios\bin\Debug\Negocios.dll
+J:\SIRAD_Versao_23032013\Negocios\bin\Debug\Negocios.pdb
+J:\SIRAD_Versao_23032013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SIRAD_Versao_23032013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SIRAD_Versao_23032013\Negocios\obj\Debug\Negocios.dll
+J:\SIRAD_Versao_23032013\Negocios\obj\Debug\Negocios.pdb
+C:\Projetos\SIRAD-versao-29-03-2013\Negocios\bin\Debug\Negocios.dll
+C:\Projetos\SIRAD-versao-29-03-2013\Negocios\bin\Debug\Negocios.pdb
+C:\Projetos\SIRAD-versao-29-03-2013\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Projetos\SIRAD-versao-29-03-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\Projetos\SIRAD-versao-29-03-2013\Negocios\obj\Debug\Negocios.dll
+C:\Projetos\SIRAD-versao-29-03-2013\Negocios\obj\Debug\Negocios.pdb
+C:\Projetos\SIRAD-versao-08-04-2013\Negocios\bin\Debug\Negocios.dll
+C:\Projetos\SIRAD-versao-08-04-2013\Negocios\bin\Debug\Negocios.pdb
+C:\Projetos\SIRAD-versao-08-04-2013\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Projetos\SIRAD-versao-08-04-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\Projetos\SIRAD-versao-08-04-2013\Negocios\obj\Debug\Negocios.dll
+C:\Projetos\SIRAD-versao-08-04-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SIRAD-versao-25-04-2013\Negocios\bin\Debug\Negocios.dll
+J:\SIRAD-versao-25-04-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SIRAD-versao-25-04-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SIRAD-versao-25-04-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SIRAD-versao-25-04-2013\Negocios\obj\Debug\Negocios.dll
+J:\SIRAD-versao-25-04-2013\Negocios\obj\Debug\Negocios.pdb
+D:\SIRAD-versao-25-04-2013\Negocios\bin\Debug\Negocios.dll
+D:\SIRAD-versao-25-04-2013\Negocios\bin\Debug\Negocios.pdb
+D:\SIRAD-versao-25-04-2013\Negocios\obj\Debug\Negocios.Resources.resources
+D:\SIRAD-versao-25-04-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+D:\SIRAD-versao-25-04-2013\Negocios\obj\Debug\Negocios.dll
+D:\SIRAD-versao-25-04-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SIRAD-versao-15-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SIRAD-versao-15-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SIRAD-versao-15-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SIRAD-versao-15-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SIRAD-versao-15-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SIRAD-versao-15-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-16-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-16-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-16-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-16-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-16-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-16-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-18-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-18-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-18-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-18-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-18-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-18-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-19-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-19-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-19-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-19-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-19-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-19-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-20-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-20-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-20-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-20-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-20-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-20-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-22-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-22-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-22-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-22-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-22-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-22-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-23-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-23-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-23-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-23-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-23-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-23-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-25-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-25-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-25-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-25-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-25-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-25-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-26-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-26-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-26-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-26-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-26-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-26-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-27-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-27-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-27-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-27-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-27-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-27-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Debug\Negocios.pdb
+G:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\bin\Debug\Negocios.dll
+G:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\bin\Debug\Negocios.pdb
+G:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Debug\ResolveAssemblyReference.cache
+G:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Debug\Negocios.Resources.resources
+G:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Debug\ResGen.read.1.tlog
+G:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Debug\ResGen.write.1.tlog
+G:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Debug\Negocios.dll
+G:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-09-07-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-09-07-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-09-07-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-09-07-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-09-07-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-09-07-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-15-07-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-15-07-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-15-07-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-15-07-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-15-07-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-15-07-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-19-07-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-19-07-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-19-07-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-19-07-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-19-07-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-19-07-2013\Negocios\obj\Debug\Negocios.pdb
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-26-07-2013\Negocios\bin\Debug\Negocios.dll
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-26-07-2013\Negocios\bin\Debug\Negocios.pdb
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-26-07-2013\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-26-07-2013\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-26-07-2013\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-26-07-2013\Negocios\obj\Debug\ResGen.read.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-26-07-2013\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-26-07-2013\Negocios\obj\Debug\ResGen.write.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-26-07-2013\Negocios\obj\Debug\Negocios.dll
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-26-07-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-27-07-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-27-07-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-27-07-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-27-07-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-27-07-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-27-07-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-01-08-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-01-08-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-01-08-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-01-08-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-01-08-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-01-08-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\obj\Debug\Negocios.pdb
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\bin\Debug\Negocios.dll
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\bin\Debug\Negocios.pdb
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Debug\Negocios.dll
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-05-08-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-05-08-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-05-08-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-05-08-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-05-08-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-05-08-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-21-08-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-21-08-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-21-08-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-08-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-21-08-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-21-08-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-25-08-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-25-08-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-25-08-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-25-08-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-25-08-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-25-08-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-10-09-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-10-09-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-10-09-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-10-09-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-10-09-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-10-09-2013\Negocios\obj\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-04-10-2013\Negocios\bin\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-04-10-2013\Negocios\bin\Debug\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-04-10-2013\Negocios\obj\Debug\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-10-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-04-10-2013\Negocios\obj\Debug\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-04-10-2013\Negocios\obj\Debug\Negocios.pdb
+G:\SISTEMA SIRAD\SIRAD-versao-11-10-2013\Negocios\bin\Debug\Negocios.dll
+G:\SISTEMA SIRAD\SIRAD-versao-11-10-2013\Negocios\bin\Debug\Negocios.pdb
+G:\SISTEMA SIRAD\SIRAD-versao-11-10-2013\Negocios\obj\Debug\Negocios.Resources.resources
+G:\SISTEMA SIRAD\SIRAD-versao-11-10-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+G:\SISTEMA SIRAD\SIRAD-versao-11-10-2013\Negocios\obj\Debug\Negocios.dll
+G:\SISTEMA SIRAD\SIRAD-versao-11-10-2013\Negocios\obj\Debug\Negocios.pdb
+E:\SISTEMA SIRAD\SIRAD-versao-19 -10-2013\Negocios\bin\Debug\Negocios.dll
+E:\SISTEMA SIRAD\SIRAD-versao-19 -10-2013\Negocios\bin\Debug\Negocios.pdb
+E:\SISTEMA SIRAD\SIRAD-versao-19 -10-2013\Negocios\obj\Debug\Negocios.Resources.resources
+E:\SISTEMA SIRAD\SIRAD-versao-19 -10-2013\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+E:\SISTEMA SIRAD\SIRAD-versao-19 -10-2013\Negocios\obj\Debug\Negocios.dll
+E:\SISTEMA SIRAD\SIRAD-versao-19 -10-2013\Negocios\obj\Debug\Negocios.pdb
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-11-10-2013\Negocios\bin\Debug\Negocios.dll
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-11-10-2013\Negocios\bin\Debug\Negocios.pdb
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-11-10-2013\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-11-10-2013\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-11-10-2013\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-11-10-2013\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-11-10-2013\Negocios\obj\Debug\Negocios.dll
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-11-10-2013\Negocios\obj\Debug\Negocios.pdb
+C:\Program Files\Luis Maia Sistemas\SIRACOM\Negocios\bin\Debug\Negocios.dll
+C:\Program Files\Luis Maia Sistemas\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+C:\Program Files\Luis Maia Sistemas\SIRACOM\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Luis Maia Sistemas\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Program Files\Luis Maia Sistemas\SIRACOM\Negocios\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRACOM\Negocios\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRACOM\Negocios\obj\Debug\Negocios.dll
+C:\Program Files\Luis Maia Sistemas\SIRACOM\Negocios\obj\Debug\Negocios.pdb
+C:\PROJETOS\SIRACOM\Negocios\bin\Debug\Negocios.dll
+C:\PROJETOS\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+C:\PROJETOS\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+C:\PROJETOS\SIRACOM\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\PROJETOS\SIRACOM\Negocios\obj\Debug\Negocios.dll
+C:\PROJETOS\SIRACOM\Negocios\obj\Debug\Negocios.pdb
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\bin\Debug\Negocios.dll
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.dll
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.pdb
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\PROJETOS\SIM Sistemas Integrados Maia\SIRACOM\Negocios\bin\Debug\Negocios.dll
+C:\PROJETOS\SIM Sistemas Integrados Maia\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+C:\PROJETOS\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+C:\PROJETOS\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\PROJETOS\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.dll
+C:\PROJETOS\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.pdb
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\SIM Sistemas Integrados Maia_2\SIRACOM\Negocios\bin\Debug\Negocios.dll
+C:\SIM Sistemas Integrados Maia_2\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+C:\SIM Sistemas Integrados Maia_2\SIRACOM\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\SIM Sistemas Integrados Maia_2\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+C:\SIM Sistemas Integrados Maia_2\SIRACOM\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\SIM Sistemas Integrados Maia_2\SIRACOM\Negocios\obj\Debug\Negocios.dll
+C:\SIM Sistemas Integrados Maia_2\SIRACOM\Negocios\obj\Debug\Negocios.pdb
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\bin\Debug\Negocios.dll
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.dll
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.pdb
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\bin\Debug\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\obj\Debug\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\bin\Debug\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Debug\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\bin\Debug\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Debug\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_Cosmetico_05_08_15\SIRACOM\Negocios\bin\Debug\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_Cosmetico_05_08_15\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_Cosmetico_05_08_15\SIRACOM\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_Cosmetico_05_08_15\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_Cosmetico_05_08_15\SIRACOM\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_Cosmetico_05_08_15\SIRACOM\Negocios\obj\Debug\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\Meus Sistemas Desktop\SIM Sistemas Integrados Maia_Cosmetico_05_08_15\SIRACOM\Negocios\obj\Debug\Negocios.pdb
+C:\Users\LuisAntonio\Desktop\Meus Arquivos NoteBook\PROJETOS PARTICULARES\DESKTOP\SIM Sistemas Integrados Maia_Cosmetico\SIRACOM\Negocios\bin\Debug\Negocios.dll
+C:\Users\LuisAntonio\Desktop\Meus Arquivos NoteBook\PROJETOS PARTICULARES\DESKTOP\SIM Sistemas Integrados Maia_Cosmetico\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+C:\Users\LuisAntonio\Desktop\Meus Arquivos NoteBook\PROJETOS PARTICULARES\DESKTOP\SIM Sistemas Integrados Maia_Cosmetico\SIRACOM\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\LuisAntonio\Desktop\Meus Arquivos NoteBook\PROJETOS PARTICULARES\DESKTOP\SIM Sistemas Integrados Maia_Cosmetico\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Users\LuisAntonio\Desktop\Meus Arquivos NoteBook\PROJETOS PARTICULARES\DESKTOP\SIM Sistemas Integrados Maia_Cosmetico\SIRACOM\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\Users\LuisAntonio\Desktop\Meus Arquivos NoteBook\PROJETOS PARTICULARES\DESKTOP\SIM Sistemas Integrados Maia_Cosmetico\SIRACOM\Negocios\obj\Debug\Negocios.dll
+C:\Users\LuisAntonio\Desktop\Meus Arquivos NoteBook\PROJETOS PARTICULARES\DESKTOP\SIM Sistemas Integrados Maia_Cosmetico\SIRACOM\Negocios\obj\Debug\Negocios.pdb
+E:\MEUS PROJETOS\Descktop\SIM Sistemas Integrados Maia_MaluStore\SIRACOM\Negocios\bin\Debug\Negocios.dll
+E:\MEUS PROJETOS\Descktop\SIM Sistemas Integrados Maia_MaluStore\SIRACOM\Negocios\bin\Debug\Negocios.pdb
+E:\MEUS PROJETOS\Descktop\SIM Sistemas Integrados Maia_MaluStore\SIRACOM\Negocios\obj\Debug\Negocios.Resources.resources
+E:\MEUS PROJETOS\Descktop\SIM Sistemas Integrados Maia_MaluStore\SIRACOM\Negocios\obj\Debug\Negocios.csproj.GenerateResource.cache
+E:\MEUS PROJETOS\Descktop\SIM Sistemas Integrados Maia_MaluStore\SIRACOM\Negocios\obj\Debug\Negocios.dll
+E:\MEUS PROJETOS\Descktop\SIM Sistemas Integrados Maia_MaluStore\SIRACOM\Negocios\obj\Debug\Negocios.pdb

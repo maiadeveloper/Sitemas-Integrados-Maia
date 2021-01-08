@@ -1,0 +1,840 @@
+F:\SIRAD_Versao_01_10_2012\LavaJato\bin\Release\LavaJato.exe.config
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\ResolveAssemblyReference.cache
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmAlterarLogo.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmConsultaDespesasGeral.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmEditarContaAPagar.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmEditarContaPagarDados.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmManterClasseReceita.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmManterReceita.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmManterTipoReceita.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.FrmMessageBoxInformation.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmPrecificacaoProduto.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmConsultarContasReceber.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmManterBanco.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmBaseContasGeral.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmCadastroDespesas.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmCarregaReport.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmEfetuarPagamentos.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmLembretesContasaPagar.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmPrioridadeCompra.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmRealizarPedidoCliente.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmCliente.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.en-US.resources
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\GenerateResource-ResGen.read.1.tlog
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\ResGen.read.1.tlog
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\GenerateResource-ResGen.write.1.tlog
+F:\SIRAD_Versao_01_10_2012\LavaJato\obj\Release\ResGen.write.1.tlog
+J:\SIRAD-versao-15-06-2013\LavaJato\bin\Release\LavaJato.exe.config
+J:\SIRAD-versao-15-06-2013\LavaJato\bin\Release\BancoSirad.accdb
+J:\SIRAD-versao-15-06-2013\LavaJato\bin\Release\LavaJato.pdb
+J:\SIRAD-versao-15-06-2013\LavaJato\bin\Release\en-US\LavaJato.resources.dll
+J:\SIRAD-versao-15-06-2013\LavaJato\bin\Release\Negocios.dll
+J:\SIRAD-versao-15-06-2013\LavaJato\bin\Release\Negocios.pdb
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\Sirad.csprojResolveAssemblyReference.cache
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmAlterarLogo.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmConfiguracoesGerais.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmConsultaDespesasGeral.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmConsultarEntradaSaida.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmDesconto.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmEditarContaAPagar.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmEditarContaPagarDados.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmFiltroVendasRealizadas.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVenda.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmFormaPagamento.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmManterClasseReceita.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmManterReceita.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmManterTipoReceita.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.FrmMessageBoxInformation.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmPrecificacaoProduto.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmConsultarContasReceber.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmManterBanco.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmBaseContasGeral.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroDespesas.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmCarregaReport.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmEfetuarPagamentos.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmLembretesContasaPagar.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmPrioridadeCompra.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioVendas.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmRevisaoSistema.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmCliente.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmRealizarBackup.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.en-US.resources
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\Sirad.csproj.GenerateResource.Cache
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\en-US\LavaJato.resources.dll
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.exe
+J:\SIRAD-versao-15-06-2013\LavaJato\obj\Release\LavaJato.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\bin\Release\LavaJato.exe.config
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.exe
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\bin\Release\BancoSirad.accdb
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\bin\Release\LavaJato.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\bin\Release\en-US\LavaJato.resources.dll
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\bin\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\bin\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\Sirad.csprojResolveAssemblyReference.cache
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmAlterarLogo.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmConfiguracoesGerais.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmConsultaDespesasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmConsultarEntradaSaida.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmDesconto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmEditarContaAPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmEditarContaPagarDados.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmFiltroVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVenda.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmFormaPagamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmManterClasseReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmManterReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmManterTipoReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.FrmMessageBoxInformation.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmPrecificacaoProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmConsultarContasReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmManterBanco.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmBaseContasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroDespesas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmCarregaReport.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmEfetuarPagamentos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmLembretesContasaPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmPrioridadeCompra.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmRealizarOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioVendas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmRevisaoSistema.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmRealizarBackup.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.en-US.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\Sirad.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\en-US\LavaJato.resources.dll
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\bin\Release\LavaJato.exe.config
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.exe
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\bin\Release\BancoSirad.accdb
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\bin\Release\LavaJato.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\bin\Release\en-US\LavaJato.resources.dll
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\bin\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\bin\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\Sirad.csprojResolveAssemblyReference.cache
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmAlterarLogo.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosOrcamentos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmConfiguracoesGerais.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmConsultaDespesasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmConsultarEntradaSaida.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmEditarContaAPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmEditarContaPagarDados.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmFiltroVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaComum.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmItemContaRecebidaTipoRecebimento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmManterClasseReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmManterReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmManterTipoReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.FrmMessageBoxInformation.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmPrecificacaoProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmConsultarContasReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmManterBanco.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmBaseContasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroDespesas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmCarregaReport.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmEfetuarPagamentos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmLembretesContasaPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmRealizarOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioVendas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmRevisaoSistema.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmRealizarBackup.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.en-US.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\Sirad.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\LavaJato\obj\Release\en-US\LavaJato.resources.dll
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\bin\Release\LavaJato.exe.config
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.exe
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\bin\Release\BancoSirad.accdb
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\bin\Release\LavaJato.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\bin\Release\en-US\LavaJato.resources.dll
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\bin\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\bin\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\Sirad.csprojResolveAssemblyReference.cache
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmAlterarLogo.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosOrcamentos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmConfiguracoesGerais.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmConsultaDespesasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmConsultarEntradaSaida.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmEditarContaAPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmEditarContaPagarDados.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmFiltroVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaComum.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmItemContaRecebidaTipoRecebimento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmManterClasseReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmManterReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmManterTipoReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.FrmMessageBoxInformation.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmPrecificacaoProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmConsultarContasReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmManterBanco.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmBaseContasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroDespesas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmCarregaReport.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmEfetuarPagamentos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmLembretesContasaPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmRealizarOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioVendas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmRealizarBackup.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.en-US.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\Sirad.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\LavaJato\obj\Release\en-US\LavaJato.resources.dll
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\bin\Release\LavaJato.exe.config
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.exe
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\bin\Release\BancoSirad.accdb
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\bin\Release\LavaJato.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\bin\Release\en-US\LavaJato.resources.dll
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\bin\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\bin\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\Sirad.csprojResolveAssemblyReference.cache
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmAlterarLogo.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosOrcamentos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmConfiguracoesGerais.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmConsultaDespesasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmConsultarEntradaSaida.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmEditarContaAPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmEditarContaPagarDados.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmFiltroVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaComum.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmItemContaRecebidaTipoRecebimento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmManterClasseReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmManterReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmManterTipoReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.FrmMessageBoxInformation.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmPrecificacaoProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmConsultarContasReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmManterBanco.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmBaseContasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmCadastroDespesas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmCarregaReport.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmEfetuarPagamentos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmLembretesContasaPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmRealizarOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioVendas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmTodasVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmRealizarBackup.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.en-US.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\Sirad.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\en-US\LavaJato.resources.dll
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\LavaJato\obj\Release\LavaJato.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\bin\Release\LavaJato.exe.config
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.exe
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\Sirad.csprojResolveAssemblyReference.cache
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmBaseDiversoRelatorios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosOrcamentos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmConsultaDespesasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmConsultarEntradaSaida.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmContasReceberDetalhado.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmConfiguracoesGeraisSistema.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmEditarContaAPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmEditarContaPagarDados.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaComum.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmImportarOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmItemContaRecebidaTipoRecebimento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmManterClasseReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmManterReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmManterTipoReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.FrmMessageBoxInformation.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmParametroContasReceberDetalhado.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmPrecificacaoProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmConsultarContasReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmManterBanco.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmBaseContasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmCadastroDespesas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmCarregaReport.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmEfetuarPagamentos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmLembretesContasaPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmRealizarOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmRemoverItemVendaPosicao.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmTodasVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.en-US.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\LavaJato\obj\Release\Sirad.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\bin\Release\LavaJato.exe.config
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.exe
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\Sirad.csprojResolveAssemblyReference.cache
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaseDiversoRelatorios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosOrcamentos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmConsultaDespesasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmConsultarEntradaSaida.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmContasReceberDetalhado.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmConfiguracoesGeraisSistema.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmEditarContaAPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmEditarContaPagarDados.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaComum.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmImportarOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmItemContaRecebidaTipoRecebimento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmManterClasseReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmManterReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmManterTipoReceita.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.FrmMessageBoxInformation.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmParametroContasReceberDetalhado.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmPrecificacaoProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmConsultarContasReceber.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmManterBanco.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaseContasGeral.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCadastroDespesas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCarregaReport.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmEfetuarPagamentos.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmLembretesContasaPagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmRealizarOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioOrcamento.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmRemoverItemVendaPosicao.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCliente.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmTodasVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmRelatoriosVendasRealizadas.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.en-US.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\LavaJato\obj\Release\Sirad.csproj.GenerateResource.Cache
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\bin\Release\LavaJato.exe.config
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.exe
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\bin\Release\BancoSirad.accdb
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\bin\Release\LavaJato.pdb
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\bin\Release\en-US\LavaJato.resources.dll
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\bin\Release\Negocios.dll
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\bin\Release\Negocios.pdb
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\ResolveAssemblyReference.cache
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaseDiversoRelatorios.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosOrcamentos.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmConsultaDespesasGeral.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmConsultarEntradaSaida.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmContasReceberDetalhado.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmConfiguracoesGeraisSistema.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmEditarContaAPagar.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmEditarContaPagarDados.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaComum.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmImportarOrcamento.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmItemContaRecebidaTipoRecebimento.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmManterClasseReceita.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmManterReceita.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmManterTipoReceita.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.FrmMessageBoxInformation.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmParametroContasReceberDetalhado.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmPrecificacaoProduto.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmConsultarContasReceber.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmManterBanco.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBaseContasGeral.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCadastroDespesas.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCarregaReport.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmEfetuarPagamentos.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmLembretesContasaPagar.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmRealizarOrcamento.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioOrcamento.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmRemoverItemVendaPosicao.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCliente.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmTodasVendasRealizadas.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmVendasRealizadas.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmRelatoriosVendasRealizadas.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.frmContas_a_Pagar.en-US.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\ResGen.read.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\ResGen.write.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\en-US\LavaJato.resources.dll
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\LavaJato\obj\Release\LavaJato.pdb
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\LavaJato.exe.config
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.exe
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.pdb
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\BancoSirad.accdb
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\LavaJato.pdb
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\Negocios.dll
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\Negocios.pdb
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\en-US\LavaJato.resources.dll
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\Sirad.csprojResolveAssemblyReference.cache
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmAberturaFechamentoCaixa.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseDiversoRelatorios.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasContaCorrente.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasDespesas.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasTiposDespesas.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosBancos.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosCaixas.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosLancamentos.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosOrcamentos.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasClasseDespesas.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmContaCorrente.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmContasReceberDetalhado.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmConfiguracoesGeraisSistema.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmDespesa.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmFinalizarVendaComum.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmImportarOrcamento.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmItemContaRecebidaTipoRecebimento.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmLancamento.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.FrmMessageBoxInformation.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmParametroContasReceberDetalhado.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmPrecificacaoProduto.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmConsultarContasReceber.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBanco.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmRealizarOrcamento.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.FrmRelatorioOrcamento.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmRemoverItemVendaPosicao.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmCliente.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmTodasVendasRealizadas.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmVendasRealizadas.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmRelatoriosVendasRealizadas.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\Sirad.csproj.GenerateResource.Cache
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\LavaJato.exe.config
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.exe
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\BancoSirad.accdb
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\LavaJato.pdb
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\Negocios.dll
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\Negocios.pdb
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\bin\Release\en-US\LavaJato.resources.dll
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\Sirad.csprojResolveAssemblyReference.cache
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmAberturaFechamentoCaixa.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasContaCorrente.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasContasReceber.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasDespesas.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasEntradasProdutos.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasTiposDespesas.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosBancos.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosCaixas.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosLancamentos.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosOrcamentos.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasClasseDespesas.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmContaCorrente.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmConfiguracoesGeraisSistema.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmDespesa.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmDetalhamentoProdutosContasReceber.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmFinalizarVendaComum.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmImportarOrcamento.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmItemContaRecebidaTipoRecebimento.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmLancamento.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmParametroContasReceberDetalhado.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBanco.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmPreVisualizacaoMovimentacao.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmRealizarOrcamento.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.FrmRelatorioOrcamento.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmRemoverItemVendaPosicao.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmCliente.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmTodasVendasRealizadas.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmMovimentacaoDiaria.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmRelatoriosVendasRealizadas.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\Sirad.csproj.GenerateResource.Cache
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.pdb
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseRelatorioGDespesas.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosUsuarios.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\LavaJato\obj\Release\LavaJato.frmQtdeRV.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\bin\Release\LavaJato.exe.config
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.exe
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\bin\Release\BancoSirad.accdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\bin\Release\LavaJato.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\bin\Release\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\bin\Release\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\bin\Release\en-US\LavaJato.resources.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\Sirad.csprojResolveAssemblyReference.cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmAberturaFechamentoCaixa.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseRelatorioGDespesas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasContaCorrente.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasContasReceber.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasDespesas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasEntradasProdutos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasNegociacoes.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasTiposDespesas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosBancos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosCaixas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosFornecedores.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosLancamentos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosOrcamentos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosUsuarios.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasClasseDespesas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmContaCorrente.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmConfiguracoesGeraisSistema.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmDespesa.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmDetalhamentoProdutosContasReceber.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmFinalizarVendaComum.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmImportarOrcamento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmItemContaRecebidaTipoRecebimento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmLancamento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmParametroContasReceberDetalhado.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmParametroRelProdutoDataVcto.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBanco.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmPreVisualizacaoMovimentacao.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmQtdeRV.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmRealizarNegociacao.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmRealizarOrcamento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.FrmRelatorioOrcamento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.FrmRelatorioProdutoDataVencimento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmRemoverItemVendaPosicao.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmCliente.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmTodasVendasRealizadas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmMovimentacaoDiaria.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\LavaJato.frmRelatoriosVendasRealizadas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\LavaJato\obj\Release\Sirad.csproj.GenerateResource.Cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\bin\Release\LavaJato.exe.config
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.exe
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\bin\Release\BancoSirad.accdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\bin\Release\LavaJato.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\bin\Release\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\bin\Release\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\bin\Release\en-US\LavaJato.resources.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\Sirad.csprojResolveAssemblyReference.cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmAberturaFechamentoCaixa.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmAlterarDataNegociacao.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaixarContaReceber.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseRelatorioGDespesas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasContaCorrente.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasContasReceber.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasDespesas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasEntradasProdutos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasNegociacoes.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasTiposDespesas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosBancos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosCaixas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosClientes.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosFornecedores.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosLancamentos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosOrcamentos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosProdutos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodosUsuarios.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmCategoria.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBaseTodasClasseDespesas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmClasseDespesa.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmContaCorrente.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmConfiguracoesGeraisSistema.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmDespesa.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmDetalhamentoProdutosContasReceber.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmEntradasProdutos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmFinalizarVenda2.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmFinalizarVendaComum.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmFinalizarVendaCrediario.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmImportarOrcamento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmItemContaRecebidaTipoRecebimento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmLancamento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmParametroContasReceberDetalhado.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmParametroRelProdutoDataVcto.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisaCategoriaProduto.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarCliente.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarFornecedores.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmPesquisarProduto.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBanco.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmManterProdutos.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmApresentacao.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmBoasVindas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmPreVisualizacaoMovimentacao.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmQtdeRV.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmRealizarNegociacao.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmRealizarOrcamento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmRealizarVendas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.FrmRelatorioOrcamento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.FrmRelatorioProduto.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.FrmRelatorioProdutoDataVencimento.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmRemoverItemVendaPosicao.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmTelaInicial.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmCliente.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroFornecedores.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroFuncionarios.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmCadastroUsuarios.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmLoginSistema.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmSobreSoftware.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmTipoDespesa.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmTodasVendasRealizadas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmMovimentacaoDiaria.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.Properties.Resources.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\LavaJato.frmRelatoriosVendasRealizadas.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\LavaJato\obj\Release\Sirad.csproj.GenerateResource.Cache

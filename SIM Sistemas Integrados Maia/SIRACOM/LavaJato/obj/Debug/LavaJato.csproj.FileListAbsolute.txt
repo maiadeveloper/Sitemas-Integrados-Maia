@@ -1,0 +1,1974 @@
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\bin\Debug\LavaJato.exe.config
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\Interop.MSACAL.dll
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmCadastroGerarServico.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmCadastroModeloAuto.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmCadastroTipServico.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.csproj.GenerateResource.Cache
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\bin\Debug\LavaJato.accdb
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\bin\Debug\LavaJato.exe
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\bin\Debug\LavaJato.pdb
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\bin\Debug\Negocios.dll
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\bin\Debug\Negocios.pdb
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\bin\Debug\Interop.MSACAL.dll
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.exe
+E:\LUIS\Meus_Projetos\SIRAD\Backup\LavaJato\obj\Debug\LavaJato.pdb
+E:\LUIS\Meus_Projetos\Backup\LavaJato\bin\Debug\LavaJato.exe.config
+E:\LUIS\Meus_Projetos\Backup\LavaJato\obj\Debug\Interop.MSACAL.dll
+E:\LUIS\Meus_Projetos\Backup\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+E:\LUIS\Meus_Projetos\Backup\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+E:\LUIS\Meus_Projetos\Backup\LavaJato\obj\Debug\LavaJato.exe
+E:\LUIS\Meus_Projetos\Backup\LavaJato\obj\Debug\LavaJato.pdb
+F:\LUIS\Meus_Projetos\Backup\LavaJato\bin\Debug\LavaJato.exe.config
+F:\LUIS\Meus_Projetos\Backup\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+F:\LUIS\Meus_Projetos\Backup\LavaJato\obj\Debug\LavaJato.exe
+F:\LUIS\Meus_Projetos\Backup\LavaJato\obj\Debug\LavaJato.pdb
+C:\SIRAD_V_2011_05\LavaJato\bin\Debug\LavaJato.exe.config
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\Interop.MSACAL.dll
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.exe
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.pdb
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmCadastroGerarServico.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmCadastroModeloAuto.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmCadastroTipServico.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.csproj.GenerateResource.Cache
+C:\SIRAD_V_2011_05\LavaJato\bin\Debug\LavaJato.accdb
+C:\SIRAD_V_2011_05\LavaJato\bin\Debug\LavaJato.exe
+C:\SIRAD_V_2011_05\LavaJato\bin\Debug\LavaJato.pdb
+C:\SIRAD_V_2011_05\LavaJato\bin\Debug\Negocios.dll
+C:\SIRAD_V_2011_05\LavaJato\bin\Debug\Negocios.pdb
+C:\SIRAD_V_2011_05\LavaJato\bin\Debug\Interop.MSACAL.dll
+C:\SIRAD_V_2011_05\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+C:\SIRAD_V_2011_05\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+C:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.exe.config
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\Interop.MSACAL.dll
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.exe
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.pdb
+C:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.accdb
+C:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.exe
+C:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.pdb
+C:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\Negocios.dll
+C:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\Negocios.pdb
+C:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\Interop.MSACAL.dll
+C:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroGerarServico.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroModeloAuto.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroTipServico.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.csproj.GenerateResource.Cache
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+C:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+C:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+E:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.exe.config
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\Interop.MSACAL.dll
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.exe
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.pdb
+E:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.accdb
+E:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.exe
+E:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.pdb
+E:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+E:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\Negocios.dll
+E:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\Negocios.pdb
+E:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\Interop.MSACAL.dll
+E:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroGerarServico.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroModeloAuto.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroTipServico.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.csproj.GenerateResource.Cache
+E:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+J:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.exe.config
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\Interop.MSACAL.dll
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.exe
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.pdb
+J:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.accdb
+J:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.exe
+J:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\LavaJato.pdb
+J:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+J:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\Negocios.dll
+J:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\Negocios.pdb
+J:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\Interop.MSACAL.dll
+J:\SIRAD_V_2011_05.1\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroGerarServico.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroModeloAuto.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroTipServico.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.csproj.GenerateResource.Cache
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+J:\SIRAD_V_2011_05.1\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\LavaJato.exe.config
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\Interop.MSACAL.dll
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.exe
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.pdb
+C:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\LavaJato.accdb
+C:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\LavaJato.exe
+C:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\LavaJato.pdb
+C:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+C:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\Negocios.dll
+C:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\Negocios.pdb
+C:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\Interop.MSACAL.dll
+C:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.csproj.GenerateResource.Cache
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+C:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\LavaJato.exe.config
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\Interop.MSACAL.dll
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.exe
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.pdb
+E:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\LavaJato.accdb
+E:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\LavaJato.exe
+E:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\LavaJato.pdb
+E:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+E:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\Negocios.dll
+E:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\Negocios.pdb
+E:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\Interop.MSACAL.dll
+E:\SIRAD_V_2011_05.1.2\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\LavaJato.csproj.GenerateResource.Cache
+E:\SIRAD_V_2011_05.1.2\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+C:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\LavaJato.exe.config
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\Interop.MSACAL.dll
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.exe
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.pdb
+C:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\LavaJato.accdb
+C:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\LavaJato.exe
+C:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\LavaJato.pdb
+C:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+C:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\Negocios.dll
+C:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\Negocios.pdb
+C:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\Interop.MSACAL.dll
+C:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.csproj.GenerateResource.Cache
+C:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+E:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\LavaJato.exe.config
+E:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\Interop.MSACAL.dll
+E:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+E:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+E:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.exe
+E:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.pdb
+D:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\LavaJato.exe.config
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\Interop.MSACAL.dll
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.exe
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.pdb
+D:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\LavaJato.accdb
+D:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\LavaJato.exe
+D:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\LavaJato.pdb
+D:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+D:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\Negocios.dll
+D:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\Negocios.pdb
+D:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\Interop.MSACAL.dll
+D:\SIRAD_V_2011_31.05.2011\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SIRAD_V_2011_31.05.2011\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+D:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.exe.config
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\Interop.MSACAL.dll
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.exe
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.pdb
+D:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.accdb
+D:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.exe
+D:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.pdb
+D:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+D:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Negocios.dll
+D:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Negocios.pdb
+D:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Interop.MSACAL.dll
+D:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.exe.config
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\Interop.MSACAL.dll
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.exe
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.pdb
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.accdb
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.exe
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.pdb
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Negocios.dll
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Negocios.pdb
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Interop.MSACAL.dll
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+J:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.exe.config
+J:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+J:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.exe
+J:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.pdb
+J:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\Interop.MSACAL.dll
+J:\MEUS PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.exe.config
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\Interop.MSACAL.dll
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.exe
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.pdb
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.accdb
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.exe
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.pdb
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Negocios.dll
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Negocios.pdb
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Interop.MSACAL.dll
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+D:\NOSSO PROJETOS\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.exe.config
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\Interop.MSACAL.dll
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\AxInterop.MSACAL.dll
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.csproj.ResolveComReference.cache
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.exe
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.pdb
+K:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.accdb
+K:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.exe
+K:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.pdb
+K:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+K:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Negocios.dll
+K:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Negocios.pdb
+K:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Interop.MSACAL.dll
+K:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\AxInterop.MSACAL.dll
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRgraficoDespesa.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+K:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+D:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.exe.config
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.exe
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.pdb
+J:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.accdb
+J:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.exe
+J:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\LavaJato.pdb
+J:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+J:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Negocios.dll
+J:\SIRAD_V_2011_28.04.2012\LavaJato\bin\Debug\Negocios.pdb
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\SIRAD_V_2011_28.04.2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.exe.config
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.exe
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.pdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.accdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.exe
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.pdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\Negocios.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\Negocios.pdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarFornecedores.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.read.777.tlog
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.read.801.tlog
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.write.777.tlog
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.write.802.tlog
+J:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.exe.config
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.exe
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.pdb
+J:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.accdb
+J:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.exe
+J:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.pdb
+J:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+J:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\Negocios.dll
+J:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\Negocios.pdb
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarFornecedores.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.read.777.tlog
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.read.801.tlog
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.write.777.tlog
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.write.802.tlog
+J:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+K:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.exe.config
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.exe
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.pdb
+K:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.accdb
+K:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.exe
+K:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\LavaJato.pdb
+K:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+K:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\Negocios.dll
+K:\SIRAD_V_2011_15.05.2012\LavaJato\bin\Debug\Negocios.pdb
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConfiguracoesEmpresa.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarFornecedores.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxWarnig.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarFornecedores.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmSelecioneTipoPessoa.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmPesqClasseDespesa.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmVerClasseDespesa.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmVerFornecedoresCadastrados.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmVerTipoDespesa.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqFornecedoresCadastrados.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.hfrmPesqTipoDespesa.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.read.777.tlog
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.read.801.tlog
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.write.777.tlog
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\GenerateResource.write.802.tlog
+K:\SIRAD_V_2011_15.05.2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\bin\Debug\LavaJato.exe.config
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.exe
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.pdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\bin\Debug\LavaJato.accdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\bin\Debug\LavaJato.exe
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\bin\Debug\LavaJato.pdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\bin\Debug\Negocios.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\bin\Debug\Negocios.pdb
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarFornecedores.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmAlterarLogo.resources
+D:\NOSSO PROJETOS\Sirad_Versões\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\GenerateResource.write.1855.tlog
+J:\SIRAD_V_2011_16.05.2012\LavaJato\bin\Debug\LavaJato.exe.config
+J:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.exe
+J:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.pdb
+F:\SIRAD_V_2011_16.05.2012\LavaJato\bin\Debug\LavaJato.exe.config
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.exe
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.pdb
+K:\SIRAD_V_2011_16.05.2012\LavaJato\bin\Debug\LavaJato.exe.config
+K:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.exe
+K:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.pdb
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmAlterarLogo.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarFornecedores.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\ResGen.read.1.tlog
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\GenerateResource.write.1855.tlog
+F:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\ResGen.write.1.tlog
+G:\SIRAD_V_2011_16.05.2012\LavaJato\bin\Debug\LavaJato.exe.config
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\ResolveAssemblyReference.cache
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmAlterarLogo.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterClientePessoaJuridica.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarFornecedores.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroClientes.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\ResGen.read.1.tlog
+G:\SIRAD_V_2011_16.05.2012\LavaJato\obj\Debug\ResGen.write.1.tlog
+D:\SIRAD_V_2011_04.08.2012\LavaJato\bin\Debug\LavaJato.accdb
+D:\SIRAD_V_2011_04.08.2012\LavaJato\bin\Debug\LavaJato.exe.config
+D:\SIRAD_V_2011_04.08.2012\LavaJato\bin\Debug\LavaJato.exe
+D:\SIRAD_V_2011_04.08.2012\LavaJato\bin\Debug\LavaJato.pdb
+D:\SIRAD_V_2011_04.08.2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+D:\SIRAD_V_2011_04.08.2012\LavaJato\bin\Debug\Negocios.dll
+D:\SIRAD_V_2011_04.08.2012\LavaJato\bin\Debug\Negocios.pdb
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.csprojResolveAssemblyReference.cache
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmAlterarLogo.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarFornecedores.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmCliente.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.csproj.GenerateResource.Cache
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.exe
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.pdb
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmPesquisaCategoriaProduto.resources
+D:\SIRAD_V_2011_04.08.2012\LavaJato\obj\Debug\LavaJato.frmPrecificacaoProduto.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\bin\Debug\LavaJato.accdb
+F:\SIRAD_Versao_13_08_2012\LavaJato\bin\Debug\LavaJato.exe.config
+F:\SIRAD_Versao_13_08_2012\LavaJato\bin\Debug\LavaJato.exe
+F:\SIRAD_Versao_13_08_2012\LavaJato\bin\Debug\LavaJato.pdb
+F:\SIRAD_Versao_13_08_2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+F:\SIRAD_Versao_13_08_2012\LavaJato\bin\Debug\Negocios.dll
+F:\SIRAD_Versao_13_08_2012\LavaJato\bin\Debug\Negocios.pdb
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.csprojResolveAssemblyReference.cache
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmAlterarLogo.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmAutorizar.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesas.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmControleSitacaoVendas.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmFiltroContasReceber.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmPesquisaCategoriaProduto.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmPesquisarFornecedores.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmPrecificacaoProduto.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmReportGeral.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasReceber.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmBRItensVendas.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmManterContasBanco.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmBRDespesas.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmBRSolicitacaoCompra.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltro.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmBaseFiltroDatas.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmBaseRecados.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmFiltroCliente.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmGerarReciboVendas.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmCliente.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmBRclientes.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasaPagar.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmBRContasPagas.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmBRProdutosEstoque.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasaPagar.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroContasPagar.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFornecedores.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroFuncionarios.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.hfrmFiltroUsuarios.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.csproj.GenerateResource.Cache
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.exe
+F:\SIRAD_Versao_13_08_2012\LavaJato\obj\Debug\LavaJato.pdb
+D:\SIRAD_Versao_23_08_2012\LavaJato\bin\Debug\LavaJato.exe.config
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.exe
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.pdb
+D:\SIRAD_Versao_23_08_2012\LavaJato\bin\Debug\LavaJato.exe
+D:\SIRAD_Versao_23_08_2012\LavaJato\bin\Debug\LavaJato.pdb
+D:\SIRAD_Versao_23_08_2012\LavaJato\bin\Debug\en-US\LavaJato.resources.dll
+D:\SIRAD_Versao_23_08_2012\LavaJato\bin\Debug\Negocios.dll
+D:\SIRAD_Versao_23_08_2012\LavaJato\bin\Debug\Negocios.pdb
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.csprojResolveAssemblyReference.cache
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmAlterarLogo.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmCategoria.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmConsultaDespesasGeral.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmConsultaSaldo.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmEditarContaAPagar.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmEditarContaPagarDados.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmEditarContasAPagarGeral.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmEntradasProdutos.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmManterClasseReceita.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmManterReceita.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmManterTipoReceita.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.FrmMessageBoxInformation.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmPesquisaCategoriaProduto.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmPesquisarCliente.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmPesquisarFornecedores.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmPesquisarProduto.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmPrecificacaoProduto.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmConsultarContasReceber.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmManterBanco.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmManterProdutos.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmApresentacao.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmBaseContasGeral.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmBaseVisualizarReport.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmBoasVindas.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmCadastroDespesas.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmCarregaReport.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmClasseDespesa.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmEfetuarPagamentos.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmLembretesContasaPagar.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmManterRecados.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmManterTipoAtividade.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmRealizarPedidoCliente.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmTelaInicial.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmCliente.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmCadastroFornecedores.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmCadastroFuncionarios.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmCadastroUsuarios.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmLoginSistema.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmSobreSoftware.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmTipoDespesa.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.Properties.Resources.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.frmContas_a_Pagar.en-US.resources
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\LavaJato.csproj.GenerateResource.Cache
+D:\SIRAD_Versao_23_08_2012\LavaJato\obj\Debug\en-US\LavaJato.resources.dll

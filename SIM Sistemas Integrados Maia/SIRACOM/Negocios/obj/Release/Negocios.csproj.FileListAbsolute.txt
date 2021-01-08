@@ -1,0 +1,118 @@
+G:\SIRAD_V_2011_16.05.2012\Negocios\bin\Release\Negocios.dll
+G:\SIRAD_V_2011_16.05.2012\Negocios\bin\Release\Negocios.pdb
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\ResolveAssemblyReference.cache
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.Resources.resources
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\ResGen.read.1.tlog
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\ResGen.write.1.tlog
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.dll
+G:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.pdb
+F:\SIRAD_V_2011_16.05.2012\Negocios\bin\Release\Negocios.dll
+F:\SIRAD_V_2011_16.05.2012\Negocios\bin\Release\Negocios.pdb
+F:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+F:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.Resources.resources
+F:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+F:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.dll
+F:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.pdb
+D:\SIRAD_V_2011_16.05.2012\Negocios\bin\Release\Negocios.dll
+D:\SIRAD_V_2011_16.05.2012\Negocios\bin\Release\Negocios.pdb
+D:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+D:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.Resources.resources
+D:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+D:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.dll
+D:\SIRAD_V_2011_16.05.2012\Negocios\obj\Release\Negocios.pdb
+D:\SIRAD_V_2011_04.08.2012\Negocios\bin\Release\Negocios.dll
+D:\SIRAD_V_2011_04.08.2012\Negocios\bin\Release\Negocios.pdb
+D:\SIRAD_V_2011_04.08.2012\Negocios\obj\Release\Negocios.Resources.resources
+D:\SIRAD_V_2011_04.08.2012\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+D:\SIRAD_V_2011_04.08.2012\Negocios\obj\Release\Negocios.dll
+D:\SIRAD_V_2011_04.08.2012\Negocios\obj\Release\Negocios.pdb
+D:\SIRAD_V_2011_04.08.2012\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\bin\Release\Negocios.dll
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\bin\Release\Negocios.pdb
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\obj\Release\Negocios.Resources.resources
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\obj\Release\Negocios.dll
+D:\MEUS PROJETOS\SIRAD_Versao_23_08_2012\Negocios\obj\Release\Negocios.pdb
+F:\SIRAD_Versao_01_10_2012\Negocios\bin\Release\Negocios.dll
+F:\SIRAD_Versao_01_10_2012\Negocios\bin\Release\Negocios.pdb
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Release\ResolveAssemblyReference.cache
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Release\Negocios.Resources.resources
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Release\GenerateResource-ResGen.read.1.tlog
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Release\ResGen.read.1.tlog
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Release\GenerateResource-ResGen.write.1.tlog
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Release\ResGen.write.1.tlog
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Release\Negocios.dll
+F:\SIRAD_Versao_01_10_2012\Negocios\obj\Release\Negocios.pdb
+J:\SIRAD-versao-15-06-2013\Negocios\bin\Release\Negocios.dll
+J:\SIRAD-versao-15-06-2013\Negocios\bin\Release\Negocios.pdb
+J:\SIRAD-versao-15-06-2013\Negocios\obj\Release\Negocios.Resources.resources
+J:\SIRAD-versao-15-06-2013\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+J:\SIRAD-versao-15-06-2013\Negocios\obj\Release\Negocios.dll
+J:\SIRAD-versao-15-06-2013\Negocios\obj\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\bin\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\bin\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\obj\Release\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\obj\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-21-06-2013\Negocios\obj\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\bin\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\bin\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\obj\Release\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\obj\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-28-06-2013\Negocios\obj\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\bin\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\bin\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\obj\Release\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\obj\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-29-06-2013\Negocios\obj\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\bin\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\bin\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Release\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-04-07-2013\Negocios\obj\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\Negocios\obj\Release\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-31-07-2013\Negocios\obj\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\bin\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\bin\Release\Negocios.pdb
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\obj\Release\Negocios.Resources.resources
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\obj\Release\Negocios.dll
+J:\SISTEMA SIRAD\SIRAD-versao-03-08-2013\Negocios\obj\Release\Negocios.pdb
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\bin\Release\Negocios.dll
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\bin\Release\Negocios.pdb
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Release\ResolveAssemblyReference.cache
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Release\Negocios.Resources.resources
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Release\ResGen.read.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Release\ResGen.write.1.tlog
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Release\Negocios.dll
+C:\Program Files\Luis Maia Sistemas\SIRAD-versao-03-08-2013\Negocios\obj\Release\Negocios.pdb
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\bin\Release\Negocios.dll
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\bin\Release\Negocios.pdb
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Release\Negocios.Resources.resources
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Release\Negocios.dll
+C:\Program Files\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Release\Negocios.pdb
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\bin\Release\Negocios.dll
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\bin\Release\Negocios.pdb
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Release\Negocios.Resources.resources
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Release\Negocios.dll
+C:\SIM Sistemas Integrados Maia\SIRACOM\Negocios\obj\Release\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\bin\Release\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\bin\Release\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\obj\Release\Negocios.Resources.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\obj\Release\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_4\SIRACOM\Negocios\obj\Release\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\bin\Release\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\bin\Release\Negocios.pdb
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Release\Negocios.Resources.resources
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Release\Negocios.csproj.GenerateResource.Cache
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Release\Negocios.dll
+C:\Users\Luis Antonio Oliveira Maia\Desktop\Meus Arquivos NoteBook\SIM Sistemas Integrados Maia_5\SIRACOM\Negocios\obj\Release\Negocios.pdb

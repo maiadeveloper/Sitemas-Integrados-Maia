@@ -1,0 +1,52 @@
+                          CONTRATO DE VENDA                          
+---------------------------------------------------------------------------------
+CREDOR:
+MALU STORE
+CNPJ:012.640.142-01
+Rua:MIGUEL DE CERVANTE,261
+Bairro:AERO CLUBE  -  CEP:76000-000  PORTO VELHO-RO
+Fone:(69) 9372-6329
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+DEVEDOR:
+Cliente :NATALIA
+CPF:000.000.000-00
+Rua: PAPIRO,3145
+Bairro:COHAB  -  CEP:78900-000   PORTO VELHO-RO
+Fone:(69) 9271-5444|(69) 3227-6774|
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+ITENS DA VENDA:
+Item  Cod   Produto                                        Qtde   Preço   Total
+---------------------------------------------------------------------------------
+  1      2129      CAMISA TESTE 1 1 45,00 45,00
+  2      2130      CAMISA TESTE 2 1 65,00 65,00
+
+---------------------------------------------------------------------------------
+VALOR TOTAL PRODUTO(S)..:R$                                         110,00
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+DETALHE PACELAMENTO:
+PARCELA       VENCIMENTO                                               VALOR
+   1/1             26/02/2020                                                  110,00
+
+VALOR TOTAL CONTA PAGAR..:R$                                       110,00
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+TERMO DO CONTRATO DA VENDA:
+Declaro ter recebido neste ato, o(s) produto(s) acima especificado(s) em perfeita(s)
+condição(oes) de uso.
+Estou ciente da divida acima especificada e dos titulos oriundos, dos prazoz de vencimento
+de cada parcela e que após a inadimplência superior a 05(cinco) dias o titulo vencido
+sera encaminhado ao cartório de protesto desta comarca para cobrança.
+Apos a data de vencimento sera acrescido encargos contratuais por atraso de 2%
+,juros de mora de 0,75% a.m.
+ 
+Assumo inteira responsabilidade pelas informações prestadas e autorizo a sua confirmação
+e comprometo-me a atualizar o meu endereço toda vez que mudar.
+ 
+---------------------------------------------------------------------------------
+MALU STORE
+Número venda:2
+Porto Velho - Ro: 27/01/2020 12:48:32
+---------------------------------------------------------------------------------
